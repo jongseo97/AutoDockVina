@@ -30,4 +30,7 @@ python run_vina_A.py
 ```
 You can also run run_vina_B.py, run_vina_C.py, etc., if multiple chains are present.
 
+## Please Note...
+![process](https://github.com/user-attachments/assets/2e66ee62-f949-40cc-a785-191906427fa0)
+
 
